@@ -10,6 +10,13 @@ The dashboard brings together team KPIs, player rankings, batting performance, b
 
 ![IPL Performance Analytics](screenshots/dashboard-overview.png)
 
+
+![IPL Performance Analytics](screenshots/team-filter.png)
+
+
+![IPL Performance Analytics](screenshots/bowler-performance.png)
+
+
 ---
 
 ## 🎯 Project Objective
