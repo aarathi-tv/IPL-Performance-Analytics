@@ -113,11 +113,14 @@ The project analyzes IPL performance data covering the period 2008–2023.
 
 The analysis includes team-level, batting, and bowling performance metrics used to create the dashboard visualizations and KPIs.
 
-## 🚀 Dashboard
+
+## 📊 Live Tableau Dashboard
 
 The interactive Tableau dashboard is available on Tableau Public.
 
-View Interactive Dashboard
+[View the Interactive Tableau Dashboard](https://public.tableau.com/views/IPL_PERFORMANCE_ANALYSIS/IPLPerformanceAnalyticsDashboard)
+
+The dashboard provides interactive analysis of IPL team, batting, and bowling performance across the 2008–2023 seasons.
 
 ## 📌 Project Highlights
 Built an interactive Tableau dashboard from IPL performance data
